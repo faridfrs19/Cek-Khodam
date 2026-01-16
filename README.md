@@ -12,12 +12,11 @@ Aplikasi web interaktif dan menghibur untuk mengetahui "Khodam" atau entitas pen
 * **Instant Result:** Cukup masukkan nama, hasil langsung muncul.
 * **Responsive Design:** Tampilan optimal di HP maupun Desktop.
 * **Clean UI:** Menggunakan nuansa gelap (dark mode) dengan efek mistis.
-* **Social Share:** (Opsional) Bagikan hasil lucu ke teman-temanmu.
 
 ## 🛠️ Tech Stack
 * **HTML5** - Struktur aplikasi.
 * **CSS3** - Animasi glow dan layouting.
-* **JavaScript (ES6)** - Logika pengacakan khodam dan manipulasi DOM.
+* **JavaScript** - Logika pengacakan khodam dan manipulasi DOM.
 
 ## 🚀 Cara Menjalankan
 1. Clone repositori ini:
